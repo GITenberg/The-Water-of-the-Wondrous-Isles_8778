@@ -1,0 +1,42 @@
+_repo: The-Water-of-the-Wondrous-Isles_8778
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morris, William
+    alias: Morris, William M.
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '107'
+    url: http://www.gutenberg.org/2009/agents/107
+    wikipedia: http://en.wikipedia.org/wiki/William_Morris
+description: "The Water of the Wondrous Isles is a fantasy novel by William Morris,\
+  \ perhaps the first writer of modern fantasy to unite an imaginary world with the\
+  \ element of the supernatural, and thus a precursor of much of present-day fantasy\
+  \ literature. It was first printed in 1897 by Morris' own Kelmscott Press on vellum\
+  \ and artisanal paper in a blackletter type of his own design. For the wider reading\
+  \ public, a hardcover trade edition was published later that year by Longmans, Green\
+  \ and Co. The novel's importance in the history of fantasy literature was recognized\
+  \ by its republication by Ballantine Books as the thirty-eighth volume of the celebrated\
+  \ Ballantine Adult Fantasy series in November, 1971. The Ballantine edition includes\
+  \ an introduction by Lin Carter.\nMorris considered his fantasies a revival of the\
+  \ medieval tradition of chivalrous romances; in consequence, they tend to have sprawling\
+  \ plots of strung-together adventures. These prose romances were written in a mock-Medieval\
+  \ style that modern readers may find arduous and fustian.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8778'
+  wikidata: Q7773721
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Water of the Wondrous Isles
+url: http://www.gutenberg.org/ebooks/8778
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Water_of_the_Wondrous_Isles
