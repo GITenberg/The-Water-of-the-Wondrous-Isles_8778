@@ -1,5 +1,8 @@
 _repo: The-Water-of-the-Wondrous-Isles_8778
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Morris, William
@@ -22,6 +25,8 @@ description: "The Water of the Wondrous Isles is a fantasy novel by William Morr
   \ medieval tradition of chivalrous romances; in consequence, they tend to have sprawling\
   \ plots of strung-together adventures. These prose romances were written in a mock-Medieval\
   \ style that modern readers may find arduous and fustian.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8778#The-Water-of-the-Wondrous-Isles
 gutenberg_bookshelf: Fantasy
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
